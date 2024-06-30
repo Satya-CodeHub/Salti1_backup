@@ -1,0 +1,28 @@
+atest Scripts - Failed
+
+Software Wacthdog - Success
+
+Disk Alert - Success
+
+MAC-Binding - Success
+
+Fstab Entry - Success
+
+Cronjob - Success
+
+Cronjob Not Enabled - Success
+
+Cron File Permission Check - Success
+
+Pendrive - Success
+
+Videos Directory - Success
+
+Videos Folder Empty - Success
+
+Camera Detection - Success
+
+motiondeviceconf- Success
+
+Defaulmotion- Success
+

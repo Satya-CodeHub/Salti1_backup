@@ -1,0 +1,4 @@
+KW20863H	BB Minda corporation 2D/2 (Hybrid 1)	UP
+KW20864H	BB CGI Hyd 2nd Floor (Hybrid 1)	TS
+KW20866H	BB Oxford 12th floor (Hybrid 1)	UP
+KW20867H	BB Minda corporation sec-59 2nd Fl (Hybrid 1)	UP

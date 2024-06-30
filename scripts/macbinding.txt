@@ -1,0 +1,46 @@
+mysql> select * from csalerts where Alert_Name='Mac_Binding' and Date_Created >= DATE_SUB(NOW(),INTERVAL 50 minute);
++------------+-------------+--------+---------------------+
+| Machine_ID | Alert_Name  | Status | Date_Created        |
++------------+-------------+--------+---------------------+
+| KW20422H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21824H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22092H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21881H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20067H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22276H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21758H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21339H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21888H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22382H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22250H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20509H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20741H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20516H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20030H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21779H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21573H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20279H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21710H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20532H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20576H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21680H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22156H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22380H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22218H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22029H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22227H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW40075H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21678H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW20373H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22065H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21897H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW22224H   | Mac_Binding | Failed | 2023-02-24 01:42:08 |
+| KW21716H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW20088H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW20211H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW40044H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW22430H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW22214H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
+| KW22370H   | Mac_Binding | Failed | 2023-02-24 01:42:09 |
++------------+-------------+--------+---------------------+
+40 rows in set (0.05 sec)

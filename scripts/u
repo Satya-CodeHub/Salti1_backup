@@ -1,0 +1,17 @@
+sir in the prod admin host3 few scripts needs to be updated with the new DB endpoints
+
+DB_USERNAME="dashboard_user"
+DB_PASSWORD="s1u9p0e3r1s9t7a7r"
+DB_HOSTNAME="mysql.staging.aws.bigbasketinstant.com"
+DB_NAME="dashboard"
+
+here DB_HOSTNAME should point to prod live DB i.e mysql.bbinstant.com or something else
+
+*********************
+
+DB_USERNAME="dashboard_user"
+DB_PASSWORD="d2a0s1h9b2o0a1r9d"
+DB_HOSTNAME="mysql.bbinstant.com"
+DB_NAME="dashboard"
+
+mysql.bbinstant.com

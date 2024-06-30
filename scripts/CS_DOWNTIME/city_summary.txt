@@ -1,0 +1,8 @@
+Pune	3
+Delhi	4
+Gurugram	7
+Chennai	8
+Noida	22
+Hyderabad	35
+Mumbai	45
+Bangalore	68

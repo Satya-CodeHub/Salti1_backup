@@ -1,0 +1,38 @@
+Latest Scripts - Failed
+
+Software Watchdog - Failed
+
+Disk Alert - Success
+
+MAC-Binding - Success
+
+Fstab Entry - Failed
+
+Cronjob - Failed
+
+Cronjob Not Enabled - Success
+
+Cron File Permission Check - Success
+
+Pendrive - Success
+
+Videos Directory - Success
+
+Videos Folder Empty - Success
+
+Camera Detection - Success
+
+Motion package - Success
+
+motiondeviceconf - Success
+
+Defaultmotion - Success
+
+False_VideoFormat - Success
+
+LCD LatestScripts - Failed
+
+Device UUID Availability - Failed
+
+BLE Status - Success
+
